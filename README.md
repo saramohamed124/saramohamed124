@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saramohamed124
 - 👀 I’m interested in fullstack web developer
-- 🌱 I’m currently learning frontend developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently frontend developer
 - 📫 How to reach me ...
 
 <!---
