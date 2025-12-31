@@ -34,20 +34,27 @@ I am a passionate Front-End Developer based in Egypt, dedicated to building resp
 ### 🏥 Track Medical System (Masar Altmaioz)
 *Designed and Developed responsive web pages and UI components for a medical tracking system.*
 - **Tech:** React.js, React Hooks, REST APIs, Firebase (OTP), React Leaflet, Figma.
-- **Role:** Front-End Developer.
+- **Role:** Front-End Developer and UI Web Designer.
 
 ### 🎓 ITQAN Corporate Training Platform
 *A comprehensive web-based training platform for corporate usage (Graduation Project).*
 - **Tech:** MERN Stack (MongoDB, Express, React, Node.js), Figma.
 - **Role:** Team Lead & Full-Stack Developer and UI Web Designer.
 
+## 📚 E Learning System
+*A responsive React-based platform integrated with a .NET backend to streamline online education and course tracking.*
+- **Tech:** HTML - CSS - Material UI - JavaScript - React.js - React query - Axios.
+- **Role:** Front-End Developer and UI Web Designer.
+
 ### 🛒 FurniStyle E-commerce
 *A complete shopping experience for Furniture with a secure checkout flow.*
 - **Tech:** Next.js, React.js, Redux Toolkit, Tailwind CSS, Axios, JavaScript (ES6),Zustand, shadcn.
+- **Role:** Front-End Developer.
 
 ### 📝 My Time (Task Management)
 *Personal Task Management web app organizing tasks by difficulty and specialty.*
 - **Tech:** Next.js, Redux, Firebase, MERN Stack.
+- **Role:** Full-Stack Developer and UI Web Designer.
 
 ---
 
