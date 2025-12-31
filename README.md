@@ -6,7 +6,7 @@ I am a passionate Front-End Developer based in Egypt, dedicated to building resp
 - 🔭 I’m currently working on **Advanced Web Development Projects**.
 - 🌱 I’m currently learning **FrontEnd System Design & Scientific Research in WEB and AI**.
 - 💼 I have experience working with **React.js, Next.js, and the Basics in MERN Stack**.
-- 👯 I’m looking to collaborate on **Open Source projects and Front-End challenges**.
+- 🤝 I’m looking to collaborate on **Open Source projects and Front-End challenges**.
 
 ---
 
@@ -41,9 +41,9 @@ I am a passionate Front-End Developer based in Egypt, dedicated to building resp
 - **Tech:** MERN Stack (MongoDB, Express, React, Node.js), Figma.
 - **Role:** Team Lead & Full-Stack Developer and UI Web Designer.
 
-### 🛒 Simple E-commerce Gold
-*A complete shopping experience for gold accessories with a secure checkout flow.*
-- **Tech:** React.js, Tailwind CSS, Daisy UI.
+### 🛒 FurniStyle E-commerce
+*A complete shopping experience for Furniture with a secure checkout flow.*
+- **Tech:** Next.js, React.js, Redux Toolkit, Tailwind CSS, Axios, JavaScript (ES6),Zustand, shadcn.
 
 ### 📝 My Time (Task Management)
 *Personal Task Management web app organizing tasks by difficulty and specialty.*
